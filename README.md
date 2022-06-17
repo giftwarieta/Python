@@ -1,4 +1,4 @@
 # Python
-This repository is aimed at showcasing some simple task created by me with Python.
+This repository is aimed at showcasing my sample python projects.
 
-I am also open to constructive Criticism towards improving my skill.
+Python is a high-level, interpreted, general-purpose programming language (<a href = 'https://en.wikipedia.org/wiki/Python_(programming_language)'>Read More</a>)
